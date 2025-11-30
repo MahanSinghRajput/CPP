@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mahansingh/Documents/C++/basics/basic'
+relocations:     []
+...
