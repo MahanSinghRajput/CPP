@@ -1,0 +1,8 @@
+Right Shift -> 
+It moves the bits to the right.
+In general x >> k = x/(2^k);
+
+Left Shift ->
+It moves the bits to the left.
+In general x << k = x * (2/k);
+It may overflow.
