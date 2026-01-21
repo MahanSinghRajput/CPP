@@ -1,6 +1,11 @@
 Easy ->
 191. Number of 1 bits
+231. Power of Two
 338. Counting Bits
 762. Prime Number of Set Bits in Binary Representation
-3370. Smallest Number with all set bits
 2859. Sum of Values at Indices With K Set Bits
+3370. Smallest Number with all set bits
+
+
+Medium ->
+1545. Find Kth Bit in Nth Binary String
