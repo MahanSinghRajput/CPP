@@ -1,12 +1,17 @@
 Easy ->
+136. Single Number
 191. Number of 1 bits
 231. Power of Two
 338. Counting Bits
 762. Prime Number of Set Bits in Binary Representation
+2220. Minimum Bit Flips to Convert Number
 2859. Sum of Values at Indices With K Set Bits
 3370. Smallest Number with all set bits
 
 
 Medium ->
 23. Divide Two Integers
+78. Subsets
+137. Single Number II
+260. Single Number III
 1545. Find Kth Bit in Nth Binary String
